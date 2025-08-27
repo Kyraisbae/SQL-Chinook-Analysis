@@ -3,9 +3,17 @@ SQL queries and results for product sales analysis using Chinook database (Level
 Elevvo Internship SQL Task⚡
 SQL queries + results I worked on during my Elevvo Pathways internship as a Data Analyst Intern. This repo shows how I explored the data, found insights, and answered key business questions.
 
-What’s Inside
-queries.sql – All my SQL queries
-results.csv – Exported results (so you don’t have to run anything)
+The analysis demonstrates SQL skills such as:
+✅ JOINs across multiple tables
+✅ Aggregations (SUM, AVG, GROUP BY)
+✅ CASE statements for grouping regions
+✅ Window functions (RANK(), ROW_NUMBER())
+✅ Date functions for monthly/yearly trends
+
+Repository Contents
+chinook_analysis.sql → All SQL queries with comments.
+results.csv → Sample output from queries.
+README.md (this file) → Documentation of approach and insights.
 
 How to Use
 Clone the repo
